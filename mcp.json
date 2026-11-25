@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "apify-twitch-live-stream-analytics-api": {
+      "url": "https://mcp.apify.com/?actors=structlabs/twitch-live-stream-analytics-api"
+    }
+  }
+}
